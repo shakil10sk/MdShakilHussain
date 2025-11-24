@@ -5,7 +5,7 @@ Full-Stack Software Engineer (Laravel + Vue/Nuxt) | 4+ Years Experience
 PHP, Laravel, Vue.js, Nuxt.js, MySQL, Redis, Docker, Tailwind CSS, NestJS
 
 ## Featured Projects
-- [Pharmacy Management System](https://github.com/MdShakilHussain/pharmacy-management-system) - Inventory, Sales, Medicines
+- [Pharmacy Management System](https://github.com/shakil10sk/Pharmecy-Managment) - Inventory, Sales, Medicines
 - [Web Page] (https://github.com/shakil10sk/mahbub_sir_webpage)
 
 ## Contact
